@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --securam-yellow: #FFB800;
+  --securam-navy: #0A0054;
+}
